@@ -1,0 +1,50 @@
+﻿.i1 {
+    /* background-color: white; */
+    position: relative;
+    /* top: 1vh; */
+    display: flex;
+    margin: 20px;
+    padding: 20px;
+    /* align-items: center; */
+    width: 100%;
+    left: 2vw;
+    height: 90%;
+}
+
+.para11 {
+    font: inherit;
+    color: #56585a;
+    /* top: 18vh; */
+    float: right;
+    margin: 3vh;
+}
+
+.i5 {
+    position: relative;
+    left: 15vw;
+    width: 50%;
+    color: #56585a;
+}
+
+.i4 {
+    display: flex;
+    max-width: 100%;
+    margin: 20px;
+    padding: 20px;
+    font: inherit;
+    color: #56585a;
+}
+
+.i3 {
+    /* display: flex; */
+    /* width: 90%; */
+    position: relative;
+}
+
+.i3 img {
+    width: 8.5vw;
+    margin: 10px;
+
+}
+
+/* Payment form */
