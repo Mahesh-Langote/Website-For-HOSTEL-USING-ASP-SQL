@@ -42,7 +42,7 @@
   <div id="pageintro" class="hoc clear"> 
     <article>
       <h3 class="heading">Stop Searching</h3>
-      <p>Find the best hostel to study</p>
+      <p>Here is the best hostel to study</p>
       <footer>
         <ul class="nospace inline pushright">
         <li class="btn inverse"><a href="after__login/log_in.aspx">Log In</a></li>
